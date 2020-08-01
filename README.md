@@ -4,7 +4,7 @@
 
 About Me:
 
-- 🔭 I’m currently working on Coding Latama
+- 🔭 I’m currently working on Coding Latam
 - 🌱 I’m currently learning Next JS
 - 👯 I’m looking to collaborate on Diego Brice
 - 🤔 I’m looking for help with mentoria web
@@ -12,3 +12,5 @@ About Me:
 - 📫 How to reach me: Twitter, Instagram
 
 Social:
+
+!(https://cdn3.iconfinder.com/data/icons/capsocial-round/500/twitter-256.png)[https://twitter.com/angelolev]
