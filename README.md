@@ -12,5 +12,3 @@ About Me:
 - 📫 How to reach me: Twitter, Instagram
 
 Social:
-
-!(https://cdn3.iconfinder.com/data/icons/capsocial-round/500/twitter-256.png)[https://twitter.com/angelolev]
