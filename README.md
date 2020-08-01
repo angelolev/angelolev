@@ -1,4 +1,4 @@
-![github](https://user-images.githubusercontent.com/1801446/89091243-b03e7280-d36d-11ea-8a42-c9c0e16c778b.png)
+<img width="100%" alt="github2" src="https://user-images.githubusercontent.com/1801446/89091832-542a1d00-d372-11ea-83cc-61ba3e80f86f.png">
 
 <h1 align="center">Hi 👋, I'm Angelo</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
