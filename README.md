@@ -4,21 +4,45 @@
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
 ## About me
+
 ```javascript
 const ANGELO = {
-  skills: ["HTML", "CSS", "Javascript", "SASS", "ReactJS", "VueJS", "GraphQL", "Responsive Design", "Redux", "Jest"],
-  tools: ["VS Code", "Figma", "Git", "Netlify", "Storybook", "Miro", "Slack", "Jira", "Bitbucket", "Amazon Web Services"],
+  skills: [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "SASS",
+    "ReactJS",
+    "VueJS",
+    "GraphQL",
+    "Responsive Design",
+    "Redux",
+    "Jest",
+  ],
+  tools: [
+    "VS Code",
+    "Figma",
+    "Git",
+    "Netlify",
+    "Storybook",
+    "Miro",
+    "Slack",
+    "Jira",
+    "Bitbucket",
+    "Amazon Web Services",
+  ],
   techCommunities: {
     coorganizer: "Coding Latam",
     speaker: "Coding Latam",
-    mentor: "Coding Latam"
+    mentor: "Coding Latam",
   },
   learning: "NextJS",
-  challenge: "I am working with 03 major frontend frameworks(vue, react, angular) to dominate all",
+  challenge:
+    "I am working with 03 major frontend frameworks(vue, react, angular) to dominate all",
   email: "angelokta7@gmail.com",
   funFact: "I like cats",
-  portfolio: "https://angelolev.github.io"
-}
+  portfolio: "https://angelolev.github.io",
+};
 ```
 
 <p align="left">
@@ -35,7 +59,13 @@ const ANGELO = {
   <img src="./redux.svg" alt="redux" width="45" height="45"/>  
 </p>
 
+## Last Youtube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 ## Github Stats
+
 [![Angelo's github stats](https://github-readme-stats.vercel.app/api?username=angelolev)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
